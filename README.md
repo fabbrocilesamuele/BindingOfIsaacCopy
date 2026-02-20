@@ -1,6 +1,6 @@
 ## 🎮 Gameplay
 
-<video src="https://github.com/fabbrocilesamuele/BindingOfIsaacCopy/blob/main/gameplay.mp4" width="352" height="720"></video>
+https://github.com/user-attachments/assets/a4340eb9-da89-40f8-81dc-cd5723bdbcda
 
 ## Binding Of Isaac -- C++ / SDL2
 
