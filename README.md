@@ -1,4 +1,8 @@
-# Binding Of Isaac -- C++ / SDL2
+## Gameplay
+
+<video src="./assets/gameplay.mp4" controls width="800"></video>
+
+## Binding Of Isaac -- C++ / SDL2
 
 Clone del gioco *Binding of Isaac* sviluppato in C++ utilizzando SDL2.
 
