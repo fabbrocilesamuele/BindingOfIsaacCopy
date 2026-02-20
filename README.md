@@ -1,6 +1,5 @@
 ## 🎮 Gameplay
 
-https://github.com/user-attachments/assets/a4340eb9-da89-40f8-81dc-cd5723bdbcda
 
 ## Binding Of Isaac -- C++ / SDL2
 
