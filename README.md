@@ -1,5 +1,6 @@
 ## 🎮 Gameplay
 
+https://github.com/user-attachments/assets/1046579f-2529-42d2-ab23-6eaba244cd7d
 
 ## Binding Of Isaac -- C++ / SDL2
 
@@ -93,3 +94,16 @@ dell'eseguibile durante la build.
 
 Una versione Windows precompilata è disponibile nella sezione "Releases"
 del repository GitHub.
+
+------------------------------------------------------------------------
+
+## Disclaimer
+
+This project is a university assignment developed for educational and demonstrative purposes only.
+
+It is inspired by *The Binding of Isaac*, originally developed and published by its respective creators.  
+All rights to the original game, its assets, characters, design, and intellectual property belong to their respective owners.
+
+This project is not affiliated with, endorsed by, or connected to the original developers or publishers in any way.
+
+No commercial use is intended.
