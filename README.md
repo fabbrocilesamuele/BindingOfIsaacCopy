@@ -1,6 +1,8 @@
-## Gameplay
+## 🎮 Gameplay
 
-[▶ Watch Gameplay](./assets/gameplay.mp4)
+Click the image below to watch the demo video.
+
+[![Gameplay Demo](./assets/thumbnail.png)](./assets/gameplay.mp4)
 
 ## Binding Of Isaac -- C++ / SDL2
 
