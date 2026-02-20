@@ -1,6 +1,6 @@
 ## Gameplay
 
-<video src="./assets/gameplay.mp4" controls width="800"></video>
+[▶ Watch Gameplay](./assets/gameplay.mp4)
 
 ## Binding Of Isaac -- C++ / SDL2
 
