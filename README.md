@@ -2,7 +2,7 @@
 
 Click the image below to watch the demo video.
 
-[![Gameplay Demo](./assets/thumbnail.png)](./assets/gameplay.mp4)
+[![Gameplay Demo](./assets/gameplay_thumbnail.png)](https://github.com/fabbrocilesamuele/BindingOfIsaacCopy/blob/main/assets/gameplay.mp4)
 
 ## Binding Of Isaac -- C++ / SDL2
 
