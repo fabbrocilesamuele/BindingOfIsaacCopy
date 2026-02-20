@@ -1,8 +1,6 @@
 ## 🎮 Gameplay
 
-Click the image below to watch the demo video.
-
-[![Gameplay Demo](./assets/gameplay_thumbnail.png)](https://github.com/fabbrocilesamuele/BindingOfIsaacCopy/blob/main/assets/gameplay.mp4)
+<video src="[https://github.com/user-attachments/assets/d0c3580a-7cbc-4ab1-ad04-42d4e35166bc](https://github.com/fabbrocilesamuele/BindingOfIsaacCopy/blob/main/assets/gameplay.mp4)" width="352" height="720"></video>
 
 ## Binding Of Isaac -- C++ / SDL2
 
